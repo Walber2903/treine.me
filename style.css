@@ -5,11 +5,13 @@ body {
   box-sizing: border-box;
   font-family: "Open Sans", sans-serif;
   background: linear-gradient(90deg, rgb(227, 255, 248, 0) 82.08%, rgb(227, 255, 248, 0.38) 100%);
+  min-height: 100vh;
 }
   
 .page {
   width: 90vh;
   margin: 0 auto;
+  padding-top: 65px;
 }
 
 nav {
